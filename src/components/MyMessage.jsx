@@ -1,4 +1,4 @@
-import parse from "html-react-parser";
+import parse from "html-react-parser"; // To parse the html from the chat app
 
 const MyMessage = ({ message }) => {
     console.log(message);
